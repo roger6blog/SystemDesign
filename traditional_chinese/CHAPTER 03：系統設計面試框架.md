@@ -106,9 +106,9 @@
 
 圖3-1和圖3-2分別展示了訂閱發布和新聞訂閱構建流程的高層設計。
 
-![](images/chapter3/figure3-1.jpg)
+![](../images/chapter3/figure3-1.jpg)
 
-![](images/chapter3/figure3-2.jpg)
+![](../images/chapter3/figure3-2.jpg)
 
 #### 第3步：深入設計
 
@@ -132,9 +132,9 @@
 
 圖3-3和圖3-4顯示了兩個使用案例的詳細設計，這將在第11章中詳細說明
 
-![](images/chapter3/figure3-3.jpg)
+![](../images/chapter3/figure3-3.jpg)
 
-![](images/chapter3/figure3-4.jpg)
+![](../images/chapter3/figure3-4.jpg)
 
 #### 第4步：總結
 
